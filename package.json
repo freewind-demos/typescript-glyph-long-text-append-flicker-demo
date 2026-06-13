@@ -1,0 +1,20 @@
+{
+  "name": "typescript-glyph-long-text-append-flicker-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx index.tsx",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@semos-labs/glyph": "^0.2.10",
+    "react": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
